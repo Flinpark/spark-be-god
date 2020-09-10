@@ -41,6 +41,7 @@
     </dependencies>
     <modules>
         <module>spark-beginning</module>
+        <module>spark-operation</module>
     </modules>
 
     
